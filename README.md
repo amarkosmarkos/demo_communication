@@ -9,4 +9,4 @@ I want to share [this function](https://gist.github.com/amarkosmarkos/480016b9c0
 
 
 ### This is an example image
-[imag](https://gist.github.com/amarkosmarkos/480016b9c05156d708abd1e428583835?permalink_comment_id=5109434#gistcomment-5109434)
+![Captura de pantalla 2024-07-03 115103](https://gist.github.com/assets/64153022/d5a4bbf9-d0bd-4611-85b2-df0888e59adf)
